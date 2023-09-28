@@ -63,19 +63,19 @@
 
 ## Passenger Jobs
 
-# mission "Finiyen Passengers (Human, Small)"
+# mission "Finiyen Passengers (Human to Human, Small)"
 
-# mission "Finiyen Passengers (Human, Medium)"
+# mission "Finiyen Passengers (Human to Human, Medium)"
 
-# mission "Finiyen Passengers (Human, Large)"
+# mission "Finiyen Passengers (Human to Human, Large)"
 
-# mission "Finiyen Passengers (Human, X-Large)"
+# mission "Finiyen Passengers (Human to Human, X-Large)"
 
-# mission "Finiyen Passengers (Hai, Small)"
+# mission "Finiyen Passengers (Hai to Hai, Small)"
 
-# mission "Finiyen Passengers (Hai, Medium)"
+# mission "Finiyen Passengers (Hai to Hai, Medium)"
 
-# mission "Finiyen Passengers (Hai, Large)"
+# mission "Finiyen Passengers (Hai to Hai, Large)"
 
 # mission "Finiyen Passengers (Human to Hai, Small)"
 
