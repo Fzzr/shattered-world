@@ -1,0 +1,141 @@
+# Copyright (c) 2014 by Benjamin Milman
+#
+# Endless Sky is free software: you can redistribute it and/or modify it under the
+# terms of the GNU General Public License as published by the Free Software
+# Foundation, either version 3 of the License, or (at your option) any later version.
+#
+# Endless Sky is distributed in the hope that it will be useful, but WITHOUT ANY
+# WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
+# PARTICULAR PURPOSE. See the GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License along with
+# this program. If not, see <https://www.gnu.org/licenses/>.
+
+## Evacuation Jobs
+
+# mission "Bring Finiyen Refugees (Human, Small)"
+
+# mission "Bring Finiyen Refugees (Human, Medium)"
+
+# mission "Bring Finiyen Refugees (Human, Large)"
+
+# mission "Bring Finiyen Refugees (Human, X-Large)"
+
+# mission "Bring Finiyen Refugees (Hai, Small)"
+
+# mission "Bring Finiyen Refugees (Hai, Medium)"
+
+# mission "Bring Finiyen Refugees (Hai, Large)"
+
+## Food Jobs
+
+# mission "Bring Finiyen Food (Small)"
+
+# mission "Bring Finiyen Food (Small, Timed)"
+
+# mission "Bring Finiyen Food (Medium)"
+
+# mission "Bring Finiyen Food (Medium, Timed)"
+
+# mission "Bring Finiyen Food (Bulk)"
+
+# mission "Bring Finiyen Food (Bulk, Timed)"
+
+# mission "Bring Finiyen Food (Large Bulk)"
+
+# mission "Bring Finiyen Food (Large Bulk, Timed)"
+
+# mission "Bring Finiyen Food (Hai, Small)"
+
+# mission "Bring Finiyen Food (Hai, Small, Timed)"
+
+# mission "Bring Finiyen Food (Hai, Medium)"
+
+# mission "Bring Finiyen Food (Hai, Medium, Timed)"
+
+# mission "Bring Finiyen Food (Hai, Bulk)"
+
+# mission "Bring Finiyen Food (Hai, Bulk, Timed)"
+
+# mission "Bring Finiyen Food (Hai, Large Bulk)"
+
+# mission "Bring Finiyen Food (Hai, Large Bulk, Timed)"
+
+## Passenger Jobs
+
+# mission "Finiyen Passengers (Human, Small)"
+
+# mission "Finiyen Passengers (Human, Medium)"
+
+# mission "Finiyen Passengers (Human, Large)"
+
+# mission "Finiyen Passengers (Human, X-Large)"
+
+# mission "Finiyen Passengers (Hai, Small)"
+
+# mission "Finiyen Passengers (Hai, Medium)"
+
+# mission "Finiyen Passengers (Hai, Large)"
+
+# mission "Finiyen Passengers (Human to Hai, Small)"
+
+# mission "Finiyen Passengers (Human to Hai, Medium)"
+
+# mission "Finiyen Passengers (Human to Hai, Large)"
+
+# mission "Finiyen Passengers (Human to Quarg, Small)"
+
+# mission "Finiyen Passengers (Human to Quarg, Medium)"
+
+# mission "Finiyen Passengers (Human to Quarg, Large)"
+
+# mission "Finiyen Passengers (Human to Quarg, X-Large)"
+
+# mission "Finiyen Passengers (Quarg to Human, Small)"
+
+# mission "Finiyen Passengers (Quarg to Human, Medium)"
+
+# mission "Finiyen Passengers (Quarg to Human, Large)"
+
+# mission "Finiyen Passengers (Quarg to Human, X-Large)"
+
+# mission "Finiyen Passengers (Hai to Human, Small)"
+
+# mission "Finiyen Passengers (Hai to Human, Medium)"
+
+# mission "Finiyen Passengers (Hai to Human, Large)"
+
+# mission "Finiyen Passengers (Hai to Quarg, Small)"
+
+# mission "Finiyen Passengers (Hai to Quarg, Medium)"
+
+# mission "Finiyen Passengers (Hai to Quarg, Large)"
+
+# mission "Finiyen Passengers (Quarg to Hai, Small)"
+
+# mission "Finiyen Passengers (Quarg to Hai, Medium)"
+
+# mission "Finiyen Passengers (Quarg to Hai, Large)"
+
+# mission "Pilgrimage to Fini (Human, Small)"
+
+# mission "Pilgrimage to Fini (Human, Medium)"
+
+# mission "Pilgrimage to Fini (Human, Large)"
+
+# mission "Pilgrimage to Fini (Human, X-Large)"
+
+# mission "Pilgrimage to Fini (Hai, Small)"
+
+# mission "Pilgrimage to Fini (Hai, Medium)"
+
+# mission "Pilgrimage to Fini (Hai, Large)"
+
+# mission "Pilgrimage to Fini (Quarg, Small)"
+
+# mission "Pilgrimage to Fini (Quarg, Medium)"
+
+# mission "Pilgrimage to Fini (Quarg, Large)"
+
+# mission "Pilgrimage to Fini (Quarg, X-Large)"
+
